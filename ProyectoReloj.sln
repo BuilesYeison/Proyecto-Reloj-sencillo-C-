@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoReloj", "ProyectoReloj.csproj", "{BA9C3740-8C90-4306-8E23-DDB110449A16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA9C3740-8C90-4306-8E23-DDB110449A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9C3740-8C90-4306-8E23-DDB110449A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9C3740-8C90-4306-8E23-DDB110449A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9C3740-8C90-4306-8E23-DDB110449A16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2BB263F-8509-4446-AD99-BBBE27EA48F9}
+	EndGlobalSection
+EndGlobal
